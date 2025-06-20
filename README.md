@@ -27,12 +27,3 @@ El sistema integra hardware (botones, displays y LEDs) con programación en bajo
   - 3 salidas (LEDs + display)
 
 
-## Estructura del proyecto
-📁 Lab02_Timer0/
-├── 📂 src/
-│   ├── 🔧 timer_counter.asm    # Lógica Timer0
-│   ├── 🔢 hex_converter.asm   # Control 7-seg
-│   └── 🚨 alarm_system.asm    # Detección coincidencias
-└── 📂 docs/
-    ├── 📄 pinout.pdf          # Diagrama de conexiones
-    └── 📄 timing_diagram.pdf  # Especificaciones temporales
